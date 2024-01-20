@@ -1,0 +1,9 @@
+{
+  "name": "klertrecipe",
+  "version": "1.0.0",
+  "description": "web app starter recipe",
+  "main": "index.js",
+  "author": "klevert opee",
+  "license": "MIT",
+  "private": false
+}
